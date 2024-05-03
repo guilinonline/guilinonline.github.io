@@ -34,9 +34,9 @@ A Data Science And Big Data Technology Undergraduate Student
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p>
-<a href="https://www.serendipper-x.cn/"><img alt="Website" src="https://img.shields.io/badge/Website-www.serendipper_x.cn-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://blog.csdn.net/tsundere_x"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-tsundere_x-blue?style=flat-square&logo=c&logoColor=fc5531"></a>
-<a href="mailto:xiaoing_cs@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-xiaoing_cs@163.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.gl.sh.cn"><img alt="Website" src="https://img.shields.io/badge/Website-www.gl.sh.cn-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://blog.csdn.net/cmcctel2009"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-cmcctel2009-blue?style=flat-square&logo=c&logoColor=fc5531"></a>
+<a href="mailto:guilin@ct99.cn"><img alt="Email" src="https://img.shields.io/badge/Email-guilin@ct99.cn-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
